@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - unwalkable
+  - gress
+  - tree
+  - road
+  - water
+  - building
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: unwalkable
+    uniqueID: 1622216263
+    locked: 0
+  - name: gress
+    uniqueID: 2728923779
+    locked: 0
+  - name: tree
+    uniqueID: 1457224415
+    locked: 0
+  - name: road
+    uniqueID: 3693184965
+    locked: 0
+  - name: water
+    uniqueID: 187141545
+    locked: 0
+  - name: building
+    uniqueID: 3082491571
+    locked: 0
